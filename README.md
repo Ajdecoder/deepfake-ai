@@ -45,8 +45,6 @@ An advanced **AI-powered media authenticity verification system** that detects m
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25ffcb78-cf66-406c-a18e-b29ee19f51f9" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfb01d31-5b49-4938-af59-415e30209354" />
 
-`/screenshots/result.png`
-
 ---
 
 ## 📂 Project Structure
