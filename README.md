@@ -38,9 +38,13 @@ An advanced **AI-powered media authenticity verification system** that detects m
 ---
 
 ## 📸 Screenshots
-> Add screenshots later  
-`/screenshots/home.png`  
-`/screenshots/dashboard.png`  
+
+<img width="1896" height="893" alt="image" src="https://github.com/user-attachments/assets/b3ed21e1-7a19-4f38-98f1-6eddfcec699b" />
+<img width="1899" height="1079" alt="image" src="https://github.com/user-attachments/assets/6836631c-5c7c-45ac-ae72-1706624cf2dc" />
+<img width="1893" height="878" alt="image" src="https://github.com/user-attachments/assets/b4e116f1-fc80-4ce6-b79d-a8962c84e49c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25ffcb78-cf66-406c-a18e-b29ee19f51f9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfb01d31-5b49-4938-af59-415e30209354" />
+
 `/screenshots/result.png`
 
 ---
