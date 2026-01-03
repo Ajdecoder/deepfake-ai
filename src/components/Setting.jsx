@@ -47,11 +47,11 @@ export default function SettingsPage() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="space-y-2">
                   <Label htmlFor="agent-id" className="text-[10px] uppercase font-black text-slate-500 tracking-widest">Agent Callsign</Label>
-                  <Input id="agent-id" defaultValue="AGENT_77" className="bg-slate-950 border-slate-800 focus:border-blue-500 h-12 font-mono" />
+                  <Input id="agent-id" defaultValue="AGENT_77" className="bg-slate-950 border-slate-800 focus:border-blue-500 h-12 font-mono text-white" />
                 </div>
                 <div className="space-y-2">
                   <Label htmlFor="email" className="text-[10px] uppercase font-black text-slate-500 tracking-widest">Secure Email</Label>
-                  <Input id="email" defaultValue="77@aegis-forensics.io" className="bg-slate-950 border-slate-800 focus:border-blue-500 h-12" />
+                  <Input id="email" defaultValue="77@aegis-forensics.io" className="bg-slate-950 border-slate-800 focus:border-blue-500 h-12 text-white" />
                 </div>
               </div>
             </CardContent>

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import AppSidebar from './Sidebar';
+import { Toaster } from 'sonner';
 
 export default function Layout({ children }) {
   const [isCollapsed, setIsCollapsed] = useState(true);
@@ -17,6 +18,7 @@ export default function Layout({ children }) {
       >
         {/* Render the page content here */}
         {children}
+        <Toaster richColors position="top-right" />
       </main>
     </div>
   );
